@@ -1,5 +1,4 @@
-
-	<article class="markdown-body entry-content" itemprop="text">
+<article class="markdown-body entry-content" itemprop="text">
 		<h1><a id="user-content-angular-7---demo-crud-application--project-for-beginners" class="anchor" aria-hidden="true"
 			 href="#angular-7---demo-crud-application--project-for-beginners"><svg class="octicon octicon-link" viewBox="0 0 16 16"
 				 version="1.1" width="16" height="16" aria-hidden="true">
@@ -80,4 +79,3 @@
 		<p>To get more help on the Angular CLI use <code>ng help</code> or go check out the <a href="https://github.com/angular/angular-cli/blob/master/README.md">Angular
 				CLI README</a>.</p>
 	</article>
-
