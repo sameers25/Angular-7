@@ -1,5 +1,5 @@
 # Angular 7 - Demo CRUD Application 
-# Student Management
+
 ### Created By Sameer Shaikh
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
